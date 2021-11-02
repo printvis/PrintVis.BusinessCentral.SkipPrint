@@ -1,2 +1,3 @@
-# PrintVis.BusinessCentral.SkipPrint
-Skip Print of Job in Mailmerge
+# Skip Print when doing Mail Merge
+
+This will allow users to skip printing jobs for mailmerge
